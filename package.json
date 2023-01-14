@@ -1,0 +1,19 @@
+{
+  "name": "scss-natours-clone",
+  "version": "1.0.0",
+  "description": "Coded while learning scss from Jonas Schmedtmann",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mevedprakash/scss-natours-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mevedprakash/scss-natours-clone/issues"
+  },
+  "homepage": "https://github.com/mevedprakash/scss-natours-clone#readme"
+}
